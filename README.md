@@ -83,7 +83,7 @@ In this iteration, only the admin can manage the database and we can not see the
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![ER Diagram](diagram.png)
+![ER Diagram](project/diagram.png)
 
 As detailed by the diagram:
 
